@@ -24,3 +24,8 @@ Beam pipeline once created, can be run in any language and on any execution fram
   <img width="460" height="300" src="wiki/images/beam_architecture.png">
 </p>
 
+## Flow of Beam programming model
+<p align="center">
+  <img width="460" height="400" src="wiki/images/flow_of_beam_programming_model.png">
+</p>
+
