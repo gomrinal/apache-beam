@@ -3,7 +3,7 @@ It is one of the latest open source project of Apache. It is an unified programm
 Batch + Stream = Beam
 ## Overview of Beam Architecture:
 <p align="center">
-  <img width="460" height="300" src="wiki/images/beam_overview.pn">
+  <img width="460" height="300" src="wiki/images/beam_overview.png">
 </p>
 ## Advantages of Beam:
 - Unified:
