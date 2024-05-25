@@ -1,4 +1,9 @@
-# ApacheBeam
+# Apache Beam
+
+- Resources:
+- https://beam.apache.org/get-started/resources/learning-resources/#courses
+- Coursera: https://www.coursera.org/specializations/serverless-data-processing-with-dataflow
+  
 It is one of the latest open source project of Apache. It is an unified programming model for expressing efficient & portable Big Data processing pipeline.
 ```
 Batch + Stream = Beam
